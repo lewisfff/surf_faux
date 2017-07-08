@@ -1,0 +1,4039 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_faux\surf_faux_sangre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-855.12 -505.67 73.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (19567 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 66 texinfos to 52
+Reduced 5 texdatas to 4 (152 bytes to 96)
+Writing C:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212271, actual size 211655
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+LoadPortals: couldn't read c:\mapsrc\surf_faux\surf_faux_sangre.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+No vis information, direct lighting only.
+357 faces
+145020 square feet [20882966.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0005 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 63/8192          756/98304    ( 0.8%) 
+brushsides             408/65536        3264/524288   ( 0.6%) 
+planes                 172/65536        3440/1310720  ( 0.3%) 
+vertexes               460/65536        5520/786432   ( 0.7%) 
+nodes                  231/65536        7392/2097152  ( 0.4%) 
+texinfos                52/12288        3744/884736   ( 0.4%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  357/65536       19992/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              234/65536       13104/3670016  ( 0.4%) 
+leaves                 233/65536        7456/2097152  ( 0.4%) 
+leaffaces              411/65536         822/131072   ( 0.6%) 
+leafbrushes            108/65536         216/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2600/512000      10400/2048000  ( 0.5%) 
+edges                 1429/256000       5716/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             18/32768         180/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           318/65536         636/131072   ( 0.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       74476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]         341/393216   ( 0.1%) 
+LDR ambient table      233/65536         932/262144   ( 0.4%) 
+HDR ambient table      233/65536         932/262144   ( 0.4%) 
+LDR leaf ambient       138/65536        3864/1835008  ( 0.2%) 
+HDR leaf ambient       233/65536        6524/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211655/0        ( 0.0%) 
+physics               [variable]       19567/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 958
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_faux\surf_faux_sangre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-855.12 -505.67 73.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 2560.0 -416.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 2560.0 -416.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 3072.0 -416.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1280.0 1024.0 -416.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1792.0 1024.0 -416.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 1536.0 -416.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 1536.0 -416.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 2560.0 -416.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (29454 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 131 texinfos to 108
+Reduced 8 texdatas to 7 (223 bytes to 167)
+Writing C:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212271, actual size 211655
+1 second elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+LoadPortals: couldn't read c:\mapsrc\surf_faux\surf_faux_sangre.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+No vis information, direct lighting only.
+616 faces
+3 degenerate faces
+211141 square feet [30404390.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0006 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 89/8192         1068/98304    ( 1.1%) 
+brushsides             752/65536        6016/524288   ( 1.1%) 
+planes                 602/65536       12040/1310720  ( 0.9%) 
+vertexes               774/65536        9288/786432   ( 1.2%) 
+nodes                  488/65536       15616/2097152  ( 0.7%) 
+texinfos               108/12288        7776/884736   ( 0.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  616/65536       34496/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              368/65536       20608/3670016  ( 0.6%) 
+leaves                 490/65536       15680/2097152  ( 0.7%) 
+leaffaces              692/65536        1384/131072   ( 1.1%) 
+leafbrushes            238/65536         476/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4288/512000      17152/2048000  ( 0.8%) 
+edges                 2281/256000       9124/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             32/32768         320/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           516/65536        1032/131072   ( 0.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      107896/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]         345/393216   ( 0.1%) 
+LDR ambient table      490/65536        1960/262144   ( 0.7%) 
+HDR ambient table      490/65536        1960/262144   ( 0.7%) 
+LDR leaf ambient       290/65536        8120/1835008  ( 0.4%) 
+HDR leaf ambient       490/65536       13720/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211655/0        ( 0.0%) 
+physics               [variable]       29454/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1592
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_faux\surf_faux_sangre.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 131 texinfos to 107
+Reduced 8 texdatas to 7 (223 bytes to 167)
+Writing C:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212271, actual size 211655
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 974 portalclusters
+2232 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 6289 visible clusters (0.69%)
+Total clusters visible: 914703
+Average clusters visible: 939
+Building PAS...
+Average clusters audible: 974
+visdatasize:244595  compressed from 249344
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2199 faces
+3 degenerate faces
+31289404 square feet [4505674240.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2196 patches before subdivision
+2626 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 229636, max 182
+transfer lists:   1.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 95/8192         1140/98304    ( 1.2%) 
+brushsides             786/65536        6288/524288   ( 1.2%) 
+planes                 734/65536       14680/1310720  ( 1.1%) 
+vertexes              2417/65536       29004/786432   ( 3.7%) 
+nodes                 2800/65536       89600/2097152  ( 4.3%) 
+texinfos               107/12288        7704/884736   ( 0.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2199/65536      123144/3670016  ( 3.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              369/65536       20664/3670016  ( 0.6%) 
+leaves                2802/65536       89664/2097152  ( 4.3%) 
+leaffaces             2295/65536        4590/131072   ( 3.5%) 
+leafbrushes           2008/65536        4016/131072   ( 3.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10722/512000      42888/2048000  ( 2.1%) 
+edges                 5520/256000      22080/1024000  ( 2.2%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             56/32768         560/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           852/65536        1704/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      109964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      244595/16777216 ( 1.5%) 
+entdata               [variable]         345/393216   ( 0.1%) 
+LDR ambient table     2802/65536       11208/262144   ( 4.3%) 
+HDR ambient table     2802/65536       11208/262144   ( 4.3%) 
+LDR leaf ambient       974/65536       27272/1835008  ( 1.5%) 
+HDR leaf ambient      2802/65536       78456/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211655/0        ( 0.0%) 
+physics               [variable]       31582/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4856
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34458 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 122
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing C:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 861 portalclusters
+1826 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4129 visible clusters (0.57%)
+Total clusters visible: 722546
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 861
+visdatasize:192134  compressed from 192864
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2126 faces
+1 degenerate faces
+31291386 square feet [4505959424.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2125 patches before subdivision
+2583 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 208442, max 133
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0012 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                101/8192         1212/98304    ( 1.2%) 
+brushsides             864/65536        6912/524288   ( 1.3%) 
+planes                 872/65536       17440/1310720  ( 1.3%) 
+vertexes              2353/65536       28236/786432   ( 3.6%) 
+nodes                 2605/65536       83360/2097152  ( 4.0%) 
+texinfos               122/12288        8784/884736   ( 1.0%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2126/65536      119056/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              394/65536       22064/3670016  ( 0.6%) 
+leaves                2609/65536       83488/2097152  ( 4.0%) 
+leaffaces             2314/65536        4628/131072   ( 3.5%) 
+leafbrushes           1909/65536        3818/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10512/512000      42048/2048000  ( 2.1%) 
+edges                 5425/256000      21700/1024000  ( 2.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/32768         380/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           696/65536        1392/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       99568/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      192134/16777216 ( 1.1%) 
+entdata               [variable]         739/393216   ( 0.2%) 
+LDR ambient table     2609/65536       10436/262144   ( 4.0%) 
+HDR ambient table     2609/65536       10436/262144   ( 4.0%) 
+LDR leaf ambient       876/65536       24528/1835008  ( 1.3%) 
+HDR leaf ambient      2609/65536       73052/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212009/0        ( 0.0%) 
+physics               [variable]       34458/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4694
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34458 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 122
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing C:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 861 portalclusters
+1826 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4129 visible clusters (0.57%)
+Total clusters visible: 722546
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 861
+visdatasize:192134  compressed from 192864
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2126 faces
+1 degenerate faces
+31291386 square feet [4505959424.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2125 patches before subdivision
+2583 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 208442, max 133
+transfer lists:   1.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0020 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                101/8192         1212/98304    ( 1.2%) 
+brushsides             864/65536        6912/524288   ( 1.3%) 
+planes                 872/65536       17440/1310720  ( 1.3%) 
+vertexes              2353/65536       28236/786432   ( 3.6%) 
+nodes                 2605/65536       83360/2097152  ( 4.0%) 
+texinfos               122/12288        8784/884736   ( 1.0%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2126/65536      119056/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              394/65536       22064/3670016  ( 0.6%) 
+leaves                2609/65536       83488/2097152  ( 4.0%) 
+leaffaces             2314/65536        4628/131072   ( 3.5%) 
+leafbrushes           1909/65536        3818/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10512/512000      42048/2048000  ( 2.1%) 
+edges                 5425/256000      21700/1024000  ( 2.1%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             38/32768         380/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           696/65536        1392/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]       99568/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      192134/16777216 ( 1.1%) 
+entdata               [variable]         739/393216   ( 0.2%) 
+LDR ambient table     2609/65536       10436/262144   ( 4.0%) 
+HDR ambient table     2609/65536       10436/262144   ( 4.0%) 
+LDR leaf ambient       876/65536       24528/1835008  ( 1.3%) 
+HDR leaf ambient      2609/65536       73052/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      212009/0        ( 0.0%) 
+physics               [variable]       34458/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4694
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34458 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 122
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 861 portalclusters
+1826 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4129 visible clusters (0.57%)
+Total clusters visible: 722546
+Average clusters visible: 839
+Building PAS...
+Average clusters audible: 861
+visdatasize:192134  compressed from 192864
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34850 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 164 texinfos to 125
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 863 portalclusters
+1841 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4087 visible clusters (0.56%)
+Total clusters visible: 725976
+Average clusters visible: 841
+Building PAS...
+Average clusters audible: 863
+visdatasize:192583  compressed from 193312
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34850 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 164 texinfos to 125
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 863 portalclusters
+1841 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4087 visible clusters (0.56%)
+Total clusters visible: 725976
+Average clusters visible: 841
+Building PAS...
+Average clusters audible: 863
+visdatasize:192583  compressed from 193312
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34490 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 122
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 865 portalclusters
+1843 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4067 visible clusters (0.56%)
+Total clusters visible: 729378
+Average clusters visible: 843
+Building PAS...
+Average clusters audible: 865
+visdatasize:194733  compressed from 193760
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34586 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 161 texinfos to 122
+Reduced 13 texdatas to 11 (359 bytes to 246)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+ 863 portalclusters
+1843 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4095 visible clusters (0.56%)
+Total clusters visible: 725704
+Average clusters visible: 840
+Building PAS...
+Average clusters audible: 863
+visdatasize:192576  compressed from 193312
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (167902 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 192 texinfos to 147
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+1511 portalclusters
+3902 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20281 visible clusters (0.97%)
+Total clusters visible: 2083674
+Average clusters visible: 1379
+Building PAS...
+Average clusters audible: 1511
+visdatasize:572585  compressed from 580224
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (167934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 192 texinfos to 147
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+1517 portalclusters
+3927 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20340 visible clusters (0.97%)
+Total clusters visible: 2098081
+Average clusters visible: 1383
+Building PAS...
+Average clusters audible: 1517
+visdatasize:577393  compressed from 582528
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (170734 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 217 texinfos to 167
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+0 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+1609 portalclusters
+4304 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 36674 visible clusters (1.55%)
+Total clusters visible: 2372997
+Average clusters visible: 1474
+Building PAS...
+Average clusters audible: 1609
+visdatasize:650982  compressed from 669344
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2792.2 3032.3 -2563.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14702: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2791.5 3059.0 -2610.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14701: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2839.8 3032.3 -2563.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14705: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2836.4 3059.6 -2610.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14704: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2839.7 3032.3 -2563.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14705: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2792.2 3032.3 -2563.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14702: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2840.5 3059.0 -2610.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14704: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2792.2 3050.8 -2596.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14701: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (271318 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 241 texinfos to 189
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2408 portalclusters
+6911 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 96218 visible clusters (1.81%)
+Total clusters visible: 5305773
+Average clusters visible: 2203
+Building PAS...
+Average clusters audible: 2408
+visdatasize:1451820  compressed from 1464064
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2636.5 4088.0 -1758.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 14606: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (271798 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 239 texinfos to 188
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2352 portalclusters
+6696 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 99481 visible clusters (1.97%)
+Total clusters visible: 5062273
+Average clusters visible: 2152
+Building PAS...
+Average clusters audible: 2352
+visdatasize:1381871  compressed from 1392384
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (273174 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 244 texinfos to 183
+Reduced 15 texdatas to 13 (402 bytes to 289)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2478 portalclusters
+6889 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105831 visible clusters (2.53%)
+Total clusters visible: 4184285
+Average clusters visible: 1688
+Building PAS...
+Average clusters audible: 2476
+visdatasize:1444093  compressed from 1546272
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (273662 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 256 texinfos to 193
+Reduced 16 texdatas to 14 (422 bytes to 309)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 212759, actual size 212009
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2484 portalclusters
+6902 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105679 visible clusters (2.52%)
+Total clusters visible: 4198133
+Average clusters visible: 1690
+Building PAS...
+Average clusters audible: 2482
+visdatasize:1450013  compressed from 1550016
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (279702 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 263 texinfos to 198
+Reduced 18 texdatas to 15 (492 bytes to 330)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2514 portalclusters
+6992 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 111242 visible clusters (2.59%)
+Total clusters visible: 4287460
+Average clusters visible: 1705
+Building PAS...
+Average clusters audible: 2512
+visdatasize:1487177  compressed from 1608960
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (279734 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 263 texinfos to 198
+Reduced 18 texdatas to 15 (492 bytes to 330)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2512 portalclusters
+6984 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 110491 visible clusters (2.58%)
+Total clusters visible: 4279941
+Average clusters visible: 1703
+Building PAS...
+Average clusters audible: 2510
+visdatasize:1482545  compressed from 1607680
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (280318 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 265 texinfos to 199
+Reduced 18 texdatas to 15 (492 bytes to 330)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2530 portalclusters
+7042 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 117935 visible clusters (2.82%)
+Total clusters visible: 4175811
+Average clusters visible: 1650
+Building PAS...
+Average clusters audible: 2527
+visdatasize:1493667  compressed from 1619200
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (280318 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 265 texinfos to 198
+Reduced 18 texdatas to 15 (492 bytes to 330)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2516 portalclusters
+6983 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 116394 visible clusters (2.79%)
+Total clusters visible: 4178274
+Average clusters visible: 1660
+Building PAS...
+Average clusters audible: 2514
+visdatasize:1482203  compressed from 1610240
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (280318 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 201
+Reduced 19 texdatas to 16 (512 bytes to 350)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2516 portalclusters
+6983 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 116394 visible clusters (2.79%)
+Total clusters visible: 4178274
+Average clusters visible: 1660
+Building PAS...
+Average clusters audible: 2514
+visdatasize:1482203  compressed from 1610240
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (280318 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 201
+Reduced 19 texdatas to 16 (513 bytes to 351)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2516 portalclusters
+6983 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 116394 visible clusters (2.79%)
+Total clusters visible: 4178274
+Average clusters visible: 1660
+Building PAS...
+Average clusters audible: 2514
+visdatasize:1482203  compressed from 1610240
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (280510 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 268 texinfos to 201
+Reduced 19 texdatas to 16 (513 bytes to 351)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2527 portalclusters
+7011 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 118328 visible clusters (2.81%)
+Total clusters visible: 4206653
+Average clusters visible: 1664
+Building PAS...
+Average clusters audible: 2525
+visdatasize:1496494  compressed from 1617280
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (280510 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 269 texinfos to 202
+Reduced 20 texdatas to 17 (533 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2527 portalclusters
+7011 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 118328 visible clusters (2.81%)
+Total clusters visible: 4206653
+Average clusters visible: 1664
+Building PAS...
+Average clusters audible: 2525
+visdatasize:1496494  compressed from 1617280
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (283366 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 285 texinfos to 204
+Reduced 20 texdatas to 17 (533 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2613 portalclusters
+7150 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 100602 visible clusters (2.79%)
+Total clusters visible: 3600865
+Average clusters visible: 1378
+Building PAS...
+Average clusters audible: 2450
+visdatasize:1540201  compressed from 1714128
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (283366 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 290 texinfos to 206
+Reduced 20 texdatas to 17 (533 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2642 portalclusters
+7330 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 104677 visible clusters (2.72%)
+Total clusters visible: 3850223
+Average clusters visible: 1457
+Building PAS...
+Average clusters audible: 2481
+visdatasize:1576766  compressed from 1775424
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (283366 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 290 texinfos to 206
+Reduced 20 texdatas to 17 (533 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2642 portalclusters
+7330 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 104677 visible clusters (2.72%)
+Total clusters visible: 3850223
+Average clusters visible: 1457
+Building PAS...
+Average clusters audible: 2481
+visdatasize:1576766  compressed from 1775424
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (284934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 300 texinfos to 217
+Reduced 20 texdatas to 17 (533 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213223, actual size 212339
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2675 portalclusters
+7451 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 115819 visible clusters (2.92%)
+Total clusters visible: 3962546
+Average clusters visible: 1481
+Building PAS...
+Average clusters audible: 2516
+visdatasize:1622270  compressed from 1797600
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (302046 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 326 texinfos to 235
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2874 portalclusters
+8044 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 211916 visible clusters (4.47%)
+Total clusters visible: 4742746
+Average clusters visible: 1650
+Building PAS...
+Average clusters audible: 2723
+visdatasize:1883323  compressed from 2069280
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (301966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 326 texinfos to 235
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2978 portalclusters
+8363 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 251827 visible clusters (4.88%)
+Total clusters visible: 5165665
+Average clusters visible: 1734
+Building PAS...
+Average clusters audible: 2831
+visdatasize:2022980  compressed from 2239456
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (301966 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 326 texinfos to 235
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+2990 portalclusters
+8405 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 252362 visible clusters (4.83%)
+Total clusters visible: 5226320
+Average clusters visible: 1747
+Building PAS...
+Average clusters audible: 2844
+visdatasize:2035568  compressed from 2248480
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (358334 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 346 texinfos to 255
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+3307 portalclusters
+9267 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 287549 visible clusters (4.37%)
+Total clusters visible: 6577756
+Average clusters visible: 1989
+Building PAS...
+Average clusters audible: 3172
+visdatasize:2500957  compressed from 2751424
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (358062 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 346 texinfos to 255
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+3277 portalclusters
+9208 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 285053 visible clusters (4.43%)
+Total clusters visible: 6437036
+Average clusters visible: 1964
+Building PAS...
+Average clusters audible: 3141
+visdatasize:2455633  compressed from 2726464
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (367292 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 353 texinfos to 261
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+3349 portalclusters
+9392 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 290239 visible clusters (4.29%)
+Total clusters visible: 6767476
+Average clusters visible: 2020
+Building PAS...
+Average clusters audible: 3216
+visdatasize:2570232  compressed from 2839952
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading c:\mapsrc\surf_faux\surf_faux_sangre.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4102.0 -1804.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4116.0 -1828.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14655: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2536.2 4106.5 -1812.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14656: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2693.7 4103.1 -1838.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2698.3 4102.0 -1837.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14649: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2426.3 4101.6 -1836.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 14123: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 66 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\mapsrc\surf_faux\surf_faux_sangre.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (367292 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 354 texinfos to 262
+Reduced 21 texdatas to 17 (584 bytes to 371)
+Writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+Wrote ZIP buffer, estimated size 213693, actual size 212675
+2 seconds elapsed
+
+
+
+8 threads
+reading c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+reading c:\mapsrc\surf_faux\surf_faux_sangre.prt
+3349 portalclusters
+9392 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 290296 visible clusters (4.29%)
+Total clusters visible: 6767399
+Average clusters visible: 2020
+Building PAS...
+Average clusters audible: 3216
+visdatasize:2570234  compressed from 2839952
+writing c:\mapsrc\surf_faux\surf_faux_sangre.bsp
+2 seconds elapsed
